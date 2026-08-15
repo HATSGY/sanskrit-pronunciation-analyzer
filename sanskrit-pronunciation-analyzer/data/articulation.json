@@ -1,0 +1,37 @@
+{
+  "_comment": "Place-of-articulation (Uccharana Sthana) mapping for Sanskrit alphabets. 'highlight_region' is used by the GUI to highlight the correct area on the mouth/throat diagram.",
+  "alphabets": {
+    "Ka":  { "place": "Throat (Kanthya)",        "sanskrit_term": "Kanthya",    "category": "Guttural",   "highlight_region": "throat",  "description": "Produced at the root of the tongue touching the soft palate/throat region." },
+    "Kha": { "place": "Throat (Kanthya)",        "sanskrit_term": "Kanthya",    "category": "Guttural",   "highlight_region": "throat",  "description": "Aspirated guttural sound, produced from the throat." },
+    "Ga":  { "place": "Throat (Kanthya)",        "sanskrit_term": "Kanthya",    "category": "Guttural",   "highlight_region": "throat",  "description": "Voiced guttural sound, produced from the throat." },
+    "Gha": { "place": "Throat (Kanthya)",        "sanskrit_term": "Kanthya",    "category": "Guttural",   "highlight_region": "throat",  "description": "Voiced aspirated guttural sound, produced from the throat." },
+    "Nga": { "place": "Throat (Kanthya)",        "sanskrit_term": "Kanthya",    "category": "Guttural",   "highlight_region": "throat",  "description": "Nasal guttural sound, produced from the throat and nose." },
+
+    "Cha":  { "place": "Hard Palate (Talavya)",  "sanskrit_term": "Talavya",    "category": "Palatal",    "highlight_region": "palate",  "description": "Produced with the tongue touching the hard palate." },
+    "Chha": { "place": "Hard Palate (Talavya)",  "sanskrit_term": "Talavya",    "category": "Palatal",    "highlight_region": "palate",  "description": "Aspirated palatal sound, produced against the hard palate." },
+    "Ja":   { "place": "Hard Palate (Talavya)",  "sanskrit_term": "Talavya",    "category": "Palatal",    "highlight_region": "palate",  "description": "Voiced palatal sound, produced against the hard palate." },
+    "Jha":  { "place": "Hard Palate (Talavya)",  "sanskrit_term": "Talavya",    "category": "Palatal",    "highlight_region": "palate",  "description": "Voiced aspirated palatal sound." },
+    "Nya":  { "place": "Hard Palate (Talavya)",  "sanskrit_term": "Talavya",    "category": "Palatal",    "highlight_region": "palate",  "description": "Nasal palatal sound." },
+
+    "Ta":  { "place": "Roof of Mouth (Murdhanya)", "sanskrit_term": "Murdhanya", "category": "Retroflex", "highlight_region": "roof",   "description": "Produced with the tongue curled back touching the roof of the mouth (retroflex)." },
+    "Tha": { "place": "Roof of Mouth (Murdhanya)", "sanskrit_term": "Murdhanya", "category": "Retroflex", "highlight_region": "roof",   "description": "Aspirated retroflex sound, tongue curled to the roof of the mouth." },
+    "Da":  { "place": "Roof of Mouth (Murdhanya)", "sanskrit_term": "Murdhanya", "category": "Retroflex", "highlight_region": "roof",   "description": "Voiced retroflex sound." },
+    "Dha": { "place": "Roof of Mouth (Murdhanya)", "sanskrit_term": "Murdhanya", "category": "Retroflex", "highlight_region": "roof",   "description": "Voiced aspirated retroflex sound." },
+    "Na":  { "place": "Roof of Mouth (Murdhanya)", "sanskrit_term": "Murdhanya", "category": "Retroflex", "highlight_region": "roof",   "description": "Nasal retroflex sound." },
+
+    "Pa":  { "place": "Lips (Oshthya)",  "sanskrit_term": "Oshthya", "category": "Labial", "highlight_region": "lips", "description": "Produced by closing both lips together." },
+    "Pha": { "place": "Lips (Oshthya)",  "sanskrit_term": "Oshthya", "category": "Labial", "highlight_region": "lips", "description": "Aspirated labial sound, produced with the lips." },
+    "Ba":  { "place": "Lips (Oshthya)",  "sanskrit_term": "Oshthya", "category": "Labial", "highlight_region": "lips", "description": "Voiced labial sound, produced with the lips." },
+    "Bha": { "place": "Lips (Oshthya)",  "sanskrit_term": "Oshthya", "category": "Labial", "highlight_region": "lips", "description": "Voiced aspirated labial sound." },
+    "Ma":  { "place": "Lips (Oshthya)",  "sanskrit_term": "Oshthya", "category": "Labial", "highlight_region": "lips", "description": "Nasal labial sound." },
+
+    "Ya":  { "place": "Hard Palate (Talavya)",         "sanskrit_term": "Talavya",     "category": "Semi-vowel", "highlight_region": "palate", "description": "Semi-vowel produced from the palate." },
+    "Ra":  { "place": "Roof of Mouth (Murdhanya)",     "sanskrit_term": "Murdhanya",   "category": "Semi-vowel", "highlight_region": "roof",   "description": "Semi-vowel produced from the roof of the mouth." },
+    "La":  { "place": "Teeth (Dantya)",                "sanskrit_term": "Dantya",      "category": "Semi-vowel", "highlight_region": "teeth",  "description": "Semi-vowel produced near the teeth." },
+    "Va":  { "place": "Teeth & Lips (Dantoshthya)",    "sanskrit_term": "Dantoshthya", "category": "Semi-vowel", "highlight_region": "lips",   "description": "Semi-vowel produced with teeth and lips together." },
+
+    "Sha": { "place": "Hard Palate (Talavya)", "sanskrit_term": "Talavya", "category": "Fricative/Sibilant", "highlight_region": "palate", "description": "Palatal fricative (sibilant) sound." },
+    "Sa":  { "place": "Teeth (Dantya)",        "sanskrit_term": "Dantya",  "category": "Fricative/Sibilant", "highlight_region": "teeth",  "description": "Dental fricative (sibilant) sound." },
+    "Ha":  { "place": "Throat (Kanthya)",      "sanskrit_term": "Kanthya", "category": "Fricative/Glottal",  "highlight_region": "throat", "description": "Glottal fricative, produced deep in the throat." }
+  }
+}
